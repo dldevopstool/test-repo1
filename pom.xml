@@ -7,6 +7,9 @@
  <maven.compiler.source>6</maven.compiler.source>
  <maven.compiler.target>1.6</maven.compiler.target>
 </properties>
+<pligin-prefix>
+  <goal>clean</goal>
+  <goal>compile</goal>
 <modelVersion>4.0.0</modelVersion>
   <groupId>com.companyname.bank</groupId>
   <artifactId>consumerBanking</artifactId>
